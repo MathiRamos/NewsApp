@@ -40,11 +40,11 @@
 
 ### 📖 Resumen
 
-Ver [doc/resumen.md](./doc/resumen.md)
+Ver ![Resumen](./doc/resumen.pdf)
 
 ### 🔍 Diagrama de componentes
 
-Ver [doc/diagrama.md](./doc/diagrama.md) o la imagen exportada en la misma carpeta.
+Ver ![Diagrama](./doc/diagrama.png) o la imagen exportada en la misma carpeta.
 
 ---
 
